@@ -1,0 +1,6 @@
+D:\Project\PulseRateCalculation\PulseRateCalculation\bin\Debug\PulseRateCalculation.exe.config
+D:\Project\PulseRateCalculation\PulseRateCalculation\bin\Debug\PulseRateCalculation.exe
+D:\Project\PulseRateCalculation\PulseRateCalculation\bin\Debug\PulseRateCalculation.pdb
+D:\Project\PulseRateCalculation\PulseRateCalculation\obj\Debug\PulseRateCalculation.csprojResolveAssemblyReference.cache
+D:\Project\PulseRateCalculation\PulseRateCalculation\obj\Debug\PulseRateCalculation.exe
+D:\Project\PulseRateCalculation\PulseRateCalculation\obj\Debug\PulseRateCalculation.pdb
